@@ -1,0 +1,29 @@
+# === OS & Editor Files ===
+.DS_Store
+.idea/
+.vscode/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# === Virtual Environment ===
+venv/
+
+# === Docker ===
+*.env
+*.dockerfile
+Dockerfile
+.dockerignore
+
+# === Jupyter (if used later) ===
+.ipynb_checkpoints/
+
+# === Compiled or temporary files ===
+*.so
+*.out
+*.swp
+*.bak
+*.tmp
