@@ -1,0 +1,78 @@
+﻿Jason Hubscher
+Philadelphia, PA 19111
+(720) 614-1714 • jhubsche@gmail.com
+________________
+
+
+Professional Summary
+Pre-Sales Solution Engineer with over 10 years of experience in client facing solution engineering and technology sales. Skilled in delivering technical demonstrations, collaborating cross-functionally with customers, account executives, product, and engineering teams to deliver value based solutions. Strong communication skills, adept at conducting technical discovery conversations to align customer goals with tailored solutions. Proficient in Python, API integrations, and familiarity with cloud environments (AWS, GCP, Azure).  Currently advancing education and career development with a Bachelor’s in Computer Science with a focus on Artificial Intelligence and Machine Learning (AI/ML) program.
+________________
+
+
+Skills
+* Technical Expertise: ERP, EPM, CRM, Digital Experiences, analytics, APIs (SOAP, REST).
+* Customer Engagement: Consultative discovery, empathy, account management, stakeholder relationship building.
+* Product Adoption: Driving technical adoption, consumption, and optimization in enterprise environments.
+* Presentation & Communication: Demonstrations, business reviews, and technical training for diverse audiences.
+* Project Management: Pipeline management, strategic account planning, workflows, process documentation, cross-functional collaboration.
+* Tools & Platforms: Salesforce, Slack, BlackLine, Oracle EPM, Workday Financials, SQL, Python, HTML/CSS, JavaScript, Postman, Excel, Bash, C++, React, Jupyter Notebooks.
+________________
+
+
+Key Achievements
+* Led demo cycles with Fortune 500 companies at Salesforce, contributing to successful deal closures and contributing $20M+ in deal revenues
+* Fully ramped up on Workday Financials in 6 months and closed my first deal worth $2M in revenue before my first anniversary
+* Developed and maintained API-based integrations at Salesforce/Slack, improving client demos, and contributed $20M+ to team ACV.
+* Managed and developed a team of consultants at Allonhill, delivering tailored solutions and delivered $5M+ ACV.
+* Consistently achieved 10-15% over quota at Hewlett Packard, securing long-term contracts through product demos and RFP.
+________________
+
+
+Professional Experience
+Workday
+Senior Solution Consultant
+June 2023 - November 2024
+* Partnered with AEs to deliver tailored demos for higher education institutions, focusing on finance and HR.
+* Led customer-centric technical discovery sessions to align solutions with institutional goals and needs.
+* Provided product development feedback, working closely with cross-functional teams to influence product strategy.
+Salesforce
+Lead Solution Engineer
+December 2020 - November 2022
+* Formed and led a team of  20 Solution Consultants to create Slack GTM material for North America Financial Services team
+   * Was recognized with a NA FINS Leadership award for contributions related to this project
+* Created and demoed Salesforce CRM and Experience Cloud for enterprise clients.
+* Developed and maintained API solutions for enterprise customer demos to highlight Salesforce and Slack’s unified platform.
+* Partnered closely with AEs, guiding large enterprises through technical evaluations, and ensuring alignment with client goals.
+* Collaborated with cross-functional teams to deliver configured solutions that addressed customer challenges.
+Oracle
+Principal Solution Engineer
+December 2019 - December 2020
+* Delivered demos of Oracle’s EPM suite, focusing on financial close processes for enterprise clients.
+* Collaborated cross-functionally with product teams and engineering to address customer challenges and deliver configured solutions.
+* Led technical discovery sessions, working with Fortune 500 clients to align Oracle solutions with their financial goals.
+BlackLine
+Solution Engineer
+December 2018 - December 2019
+* Provided product demonstrations of BlackLine’s CPM solutions, focusing on finance executives’ needs.
+* Led discovery sessions, uncovering technical challenges and delivering configured demos to support decision-making.
+* Collaborated with the product team to refine and enhance BlackLine’s offerings based on customer feedback.
+S&P Global
+Ratings Analyst
+June 2015 – December 2018
+* Managed ABS and Corporate credit risk analyses using Python, SQL, R, and Excel.
+* Led ABS asset servicing risk analysis project; authored market-facing research.
+* Gained deep operational insight into finance, compliance, and performance drivers across sectors.
+WJ Bradley
+Senior Financial Systems Analyst
+September 2013 – June 2015
+* Administered BlackLine, Oracle, and Excel-based tools for budgeting, forecasting, and analytics.
+* Designed and enforced SOX/GAAP/ICOFR controls across accounting processes.
+* Built VBA/SQL automation for data integration and reporting; supported enterprise-wide finance ops.
+________________
+
+
+Education
+University of Colorado at Colorado Springs
+Bachelor’s Degree in Chemistry, Dean’s List for Academic Achievement
+University of Colorado at Boulder
+Bachelor’s degree in Computer Science; Expected graduation date Spring 2027
